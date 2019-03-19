@@ -5,3 +5,4 @@ pthread.sln
 pthread.vcxproj
 pthread.vcxproj.filters
 pthread.vcxproj.user
+.vs/pthread/v15/Browse.VC.opendb
